@@ -28,3 +28,7 @@ class HelloWorldTest < Minitest::Test
     MSG
   end
 end
+
+
+# write the code that makes these assertions true
+# do one test at a time
